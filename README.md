@@ -27,13 +27,13 @@
 | tapswap_bot                                                    |     ✅     |
 | wcoin_tapbot                                                   |     ✅     |
 
-## [Settings](https://github.com/SudoLite/TGStarterBot/blob/main/.env-example)
+## [Settings](https://github.com/ivansuselo/TGStarterBot/blob/main/.env-example)
 | Setting                   | Description                                                                   |
 |---------------------------|-------------------------------------------------------------------------------|
 | **API_ID / API_HASH**     | Platform data from which to launch a Telegram session (stock - Android)       |
 | **START_NAME_BOT**        | Should I start bot _(True / False)_                     |
 | **START_NAME_BOT_URL**    | MiniApp url of telegram bot _(https://example.com/)_                              |
-| **START_NAME_BOT_STR**    | Text for start bot like referral _(r_199078201)_                                |
+| **START_NAME_BOT_STR**    | Text for start bot like referral _(refferalcode)_                                |
 | **USE_PROXY_FROM_FILE**   | Whether to use proxy from the `bot/config/proxies.txt` file (True / False)    |
 
 ## Installation
@@ -43,7 +43,7 @@ You can download the [**Repository**](https://github.com/ivansuselo/TGStarterBot
 ~ >>> cd TGStarterBot
 
 # If you are using Telethon sessions, then clone the "converter" branch
-~ >>> git clone https://github.com/SudoLite/TGStarterBot.git -b converter
+~ >>> git clone https://github.com/ivansuselo/TGStarterBot.git -b converter
 ~ >>> cd TGStarterBot
 
 #Linux
