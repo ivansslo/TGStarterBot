@@ -1,5 +1,5 @@
 
-[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/SudoLite)
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/nethunterid)
 
 ![img1](.github/images/demo.png)
 
