@@ -37,9 +37,9 @@
 | **USE_PROXY_FROM_FILE**   | Whether to use proxy from the `bot/config/proxies.txt` file (True / False)    |
 
 ## Installation
-You can download the [**Repository**](https://github.com/SudoLite/TGStarterBot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**Repository**](https://github.com/ivansuselo/TGStarterBot.git) by cloning it to your system and installing the necessary dependencies:
 ```shell
-~ >>> git clone https://github.com/SudoLite/TGStarterBot.git
+~ >>> git clone https://github.com/ivansuselo/TGStarterBot.git
 ~ >>> cd TGStarterBot
 
 # If you are using Telethon sessions, then clone the "converter" branch
