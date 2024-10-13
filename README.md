@@ -3,8 +3,6 @@
 
 ![img1](.github/images/demo.png)
 
-> 🇮🇷 README available in Persian [here](README-FA.md)
-
 ## Functionality
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
